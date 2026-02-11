@@ -1,7 +1,7 @@
 ## Hi 👋,I'm Dhanush M K
 
 # 💫 About Me:
-Full-stack Java developer training at Jspiders Mysore in progress.<br>
+Full-stack Java developer.<br>
 
 
 ## 🌐 Socials:
